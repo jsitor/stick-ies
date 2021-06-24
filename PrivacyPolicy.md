@@ -13,7 +13,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 All notes are stored locally in the desktop, removal of the application or due to any other issues, the notes app data can get deleted. The developer of this application is not liable for any such things.
 
-This application doesn't collect any data and all the data are stored locally only.
+This application doesn't send the data to any service and all the data are stored locally only.
 
 **Changes to This Privacy Policy**
 
