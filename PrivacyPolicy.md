@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Ashvin Suthar built the Stick-ies app as a free app. This SERVICE is provided by Ashvin Suthar at no cost(limited) and is intended for use as is.
+Ashvin Suthar built the Stick-ies app as a paid app. This SERVICE is provided by Ashvin Suthar at some cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
